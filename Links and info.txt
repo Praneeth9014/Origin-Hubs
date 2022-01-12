@@ -1,0 +1,4 @@
+https://github.com/durgasai/kuberneteslearning/tree/main/coreconcepts
+
+Differences between Relative and Absolute path
+In simple words, an absolute path refers to the same location in a file system relative to the root directory, whereas a relative path points to a specific location in a file system relative to the current directory you are working on.
